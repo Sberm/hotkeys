@@ -15,7 +15,7 @@ Loop {
 
     scroll_interval := 25 ;; 25 ms interval
     sleep_min := 1
-    sleep_max := 3
+    sleep_max := 6
 
     Random, direction, %up%, %down%
     Random, distance, %dist_min%, %dist_max%
