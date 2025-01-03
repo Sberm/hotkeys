@@ -37,4 +37,4 @@ Loop {
 
 ;; alt + shift + r to stop
 +!r::
-ExitApp
+Pause, Toggle
