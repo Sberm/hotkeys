@@ -11,11 +11,11 @@ Loop {
     up := 0
     down := 1
     dist_min := 2
-    dist_max := 12
+    dist_max := 15
 
     scroll_interval := 25 ;; 25 ms interval
     sleep_min := 1
-    sleep_max := 6
+    sleep_max := 4
 
     Random, direction, %up%, %down%
     Random, distance, %dist_min%, %dist_max%
