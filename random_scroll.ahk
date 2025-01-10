@@ -35,6 +35,6 @@ Loop {
     Sleep, sleepTime * 1000
 }
 
-;; alt + shift + r to stop
+;; alt + shift + r to pause, press again to restart
 +!r::
 Pause, Toggle
